@@ -1,0 +1,86 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyO2MZye2OStPili+caVhTMb",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/DanAnthonySalazarLoera/Fundamentos-De-Programacion/blob/main/Formula%20de%20la%20Relatividad\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "CDrQrinyGXeI"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Dan Anthony Fundamentos de programacion ITSLP E=M*C**2\n",
+        "Programa que calcula la equivalencia entre masa y energia"
+      ],
+      "metadata": {
+        "id": "3x_5WkctG7dh"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "jxz0gX7IIhmV"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "m = float(input(\"ingrese la velocidad\"))\n",
+        "c = float(input(\"ingrese la masa en kg\"))\n",
+        "E = m*c**2\n",
+        "print (f\"La Energia Es:{E:.2f}\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "YJIRwsZdIwlR",
+        "outputId": "c215a01c-10a8-4c3e-e05b-e251420ca5cf"
+      },
+      "execution_count": 10,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "ingrese la velocidad100\n",
+            "ingrese la masa en kg50\n",
+            "La Energia Es:250000.00\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
